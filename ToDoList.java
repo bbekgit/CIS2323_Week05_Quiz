@@ -74,6 +74,7 @@ public class ToDoList {
       System.out.println("3 - Remove specific item");
       System.out.println("0 - Quit");
       System.out.print("Enter your menu choice: ");
+	  
 
       //process user's menu choice
       try {
